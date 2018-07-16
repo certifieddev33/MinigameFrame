@@ -1,0 +1,16 @@
+main: com.gmail.certifieddev33.Minigame.Minigame
+name: Minigame
+version: 1.0.1
+author: TheeRock
+description: Minigame plugin 
+commands:
+  arena:
+    description: Arena command
+    usage: /arena
+    permission: Minigame.arena
+    permission-message: You don't have sufficient permission.
+  kit:
+    description: Kit command
+    usage: /kit
+    permission: Minigame.kit
+    permission-message: You don't have sufficient permission.
